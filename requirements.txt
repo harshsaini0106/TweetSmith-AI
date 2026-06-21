@@ -1,0 +1,15 @@
+langgraph
+
+langchain
+
+langchain-core
+
+langchain-huggingface
+
+huggingface-hub
+
+pydantic
+
+python-dotenv
+
+streamlit
